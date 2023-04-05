@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "la-mia-pizzeria-static", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "Razor\Razor.csproj", "{A3D03052-CAB5-4F02-9704-146C0B2FF3FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{655FBF02-8E3B-464A-9E10-F7FB7B9508C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A3D03052-CAB5-4F02-9704-146C0B2FF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D03052-CAB5-4F02-9704-146C0B2FF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D03052-CAB5-4F02-9704-146C0B2FF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655FBF02-8E3B-464A-9E10-F7FB7B9508C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655FBF02-8E3B-464A-9E10-F7FB7B9508C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655FBF02-8E3B-464A-9E10-F7FB7B9508C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655FBF02-8E3B-464A-9E10-F7FB7B9508C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
